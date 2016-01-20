@@ -1,5 +1,5 @@
 
-var Dictionary = {              // creating a javascript Dictionary object
+var Dictionary = {              // creating a javascript Dictionary object/hash
 34: "thirty-four", 
 90: "ninety",
 91: "ninety-one",
